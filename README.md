@@ -74,7 +74,7 @@ Este proyecto permite controlar hasta ocho luces en una casa utilizando comandos
 Si encuentras algún error o tienes sugerencias para mejorar el proyecto, siéntete libre de abrir un issue o hacer un pull request.
 
 ## Funcionamiento
-![Descripción de la imagen](https://ibb.co/FVvbdcY)
+![Descripción de la imagen]([https://ibb.co/FVvbdcY](https://res.cloudinary.com/dtd3uxftx/image/upload/v1725308277/Whats-App-Image-2024-09-02-at-2-14-35-PM_1_djbz8j.jpg)
 
 
 
