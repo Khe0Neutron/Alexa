@@ -73,6 +73,8 @@ Este proyecto permite controlar hasta ocho luces en una casa utilizando comandos
 
 Si encuentras algún error o tienes sugerencias para mejorar el proyecto, siéntete libre de abrir un issue o hacer un pull request.
 
-## Licencia
+## Funcionamiento
+![Descripción de la imagen](https://ibb.co/FVvbdcY)
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+
+
