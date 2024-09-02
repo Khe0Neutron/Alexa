@@ -1,0 +1,29 @@
+"Source:","/home/neutron/Documentos/Proyectos/Alexa/Kicad/placa/placa.kicad_sch"
+"Date:","vie 01 dic 2023 10:46:34"
+"Tool:","Eeschema 6.0.2+dfsg-1"
+"Generator:","/usr/share/kicad/plugins/bom_csv_grouped_by_value.py"
+"Component Count:","8"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","Check_prices","Description","MANUFACTURER","MF","MP","PARTREV","Package","STANDARD","SnapEDA_Link"
+"","","C1","C","Device:C","Capacitor_THT:CP_Radial_D4.0mm_P2.00mm","~","","","","","","","","",""
+"","","C2","C","Device:C","Capacitor_THT:CP_Radial_D4.0mm_P2.00mm","~","","","","","","","","",""
+"","","J1","Conn_01x02","Connector_Generic:Conn_01x02","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","~","","","","","","","","",""
+"","","J2","Conn_01x02","Connector_Generic:Conn_01x02","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","~","","","","","","","","",""
+"","","J3","Conn_01x10","Connector_Generic:Conn_01x10","Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical","~","","","","","","","","",""
+"","","U1","ESP32-DEVKITC","ESP32-DEVKITC:ESP32-DEVKITC","ESP32-DEVKITC:MODULE_ESP32-DEVKITC","","https://www.snapeda.com/parts/ESP32-DEVKITC/Espressif+Systems/view-part/?ref=eda","ESP32-WROOM-32UE series Transceiver; 802.11 b/g/n (Wi-Fi, WiFi, WLAN), Bluetooth ® Smart Ready 4.x Dual Mode Evaluation Board","ESPRESSIF","Espressif Systems","ESP32-DEVKITC","N/A","None","Manufacturer Recommendations","https://www.snapeda.com/parts/ESP32-DEVKITC/Espressif+Systems/view-part/?ref=snap"
+"","","U2","LM1117-3.3","Regulator_Linear:LM1117-3.3","lm1117:TO254P1054X470X1955-3","http://www.ti.com/lit/ds/symlink/lm1117.pdf","","","","","","","","",""
+"","","U3","TXS0108EPW","Logic_LevelTranslator:TXS0108EPW","ESP32-DEVKITC:txs0108","www.ti.com/lit/ds/symlink/txs0108e.pdf","","","","","","","","",""
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","Check_prices","Description","MANUFACTURER","MF","MP","PARTREV","Package","STANDARD","SnapEDA_Link"
+"1","2","C1, C2","C","Device:C","Capacitor_THT:CP_Radial_D4.0mm_P2.00mm","~","","","","","","","","",""
+"2","2","J1, J2","Conn_01x02","Connector_Generic:Conn_01x02","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","~","","","","","","","","",""
+"3","1","J3","Conn_01x10","Connector_Generic:Conn_01x10","Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical","~","","","","","","","","",""
+"4","1","U1","ESP32-DEVKITC","ESP32-DEVKITC:ESP32-DEVKITC","ESP32-DEVKITC:MODULE_ESP32-DEVKITC","","https://www.snapeda.com/parts/ESP32-DEVKITC/Espressif+Systems/view-part/?ref=eda","ESP32-WROOM-32UE series Transceiver; 802.11 b/g/n (Wi-Fi, WiFi, WLAN), Bluetooth ® Smart Ready 4.x Dual Mode Evaluation Board","ESPRESSIF","Espressif Systems","ESP32-DEVKITC","N/A","None","Manufacturer Recommendations","https://www.snapeda.com/parts/ESP32-DEVKITC/Espressif+Systems/view-part/?ref=snap"
+"5","1","U2","LM1117-3.3","Regulator_Linear:LM1117-3.3","lm1117:TO254P1054X470X1955-3","http://www.ti.com/lit/ds/symlink/lm1117.pdf","","","","","","","","",""
+"6","1","U3","TXS0108EPW","Logic_LevelTranslator:TXS0108EPW","ESP32-DEVKITC:txs0108","www.ti.com/lit/ds/symlink/txs0108e.pdf","","","","","","","","",""

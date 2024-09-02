@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "ESP32-DEVKITC")(type "KiCad")(uri "/home/neutron/Documentos/Proyectos/Alexa/Kicad/ESP32-DEVKITC/ESP32-DEVKITC.kicad_sym")(options "")(descr ""))
+  (lib (name "TXS0108EPW")(type "KiCad")(uri "/home/neutron/Documentos/Proyectos/Alexa/Kicad/TXS0108EPW/TXS0108EPW.kicad_sym")(options "")(descr ""))
+)
